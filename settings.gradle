@@ -1,0 +1,5 @@
+rootProject.name = 'PrototypeJava'
+include 'Server'
+include 'Client'
+include 'Common'
+
